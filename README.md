@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://danilo-de-carvalho88.github.io/menu-bank/">Acessar a demonstração</a>
+    <a href="https://danilo-de-carvalho88.github.io/agenciaxyz/">Acessar a demonstração</a>
 </h3>
 
 # Índice
@@ -35,7 +35,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 1 - Clonar o repositório.
 
 ```bash
-    $ git clone https://danilo-de-carvalho88.github.io/menu-bank/
+    $ git clone https://github.com/Danilo-de-Carvalho88/agenciaxyz.git
 ```
 
 2 - Entrar no diretório.
